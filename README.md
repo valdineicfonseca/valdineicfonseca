@@ -3,7 +3,7 @@
 - 💻 Cursando Analise e Desenvolvimento de Sistema
 - 👀 Pós graduação em Ciência de dados
 - 🌱 Atualmente estudante Python Impressionador da Hashtag
-- 💞️ Associado do ClubDev e CodeClub, focado nos estudos de:
+- 💞️ Associado do ClubDev e CodeClub, focado nos aperfeiçoamento de:
 - 📫 HTML – CSS – JavaScript, API e REST API
 
 https://github.com/valdineicfonseca
