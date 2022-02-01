@@ -1,10 +1,10 @@
 ## Oiii eu sou Valdinei C.Fonseca estudante de programação e tecnologia!
 
 - 💻 Cursando Analise e Desenvolvimento de Sistema
-- 👀 Pós graduação em Ciência de dados
-- 🌱 Atualmente estudante Python Impressionador da Hashtag
-- 💞️ Associado do ClubDev e CodeClub, focado no aperfeiçoamento de:
-- 📫 HTML – CSS – JavaScript, API e REST API
+- 📊 Pós graduação em Ciência de dados
+- 🐍 Atualmente estudante Python Impressionador da Hashtag
+- 🏅 Associado do ClubDev e CodeClub, focado no aperfeiçoamento de:
+- 💶 HTML – CSS – JavaScript, API e REST API
 
 https://github.com/valdineicfonseca
 <div align="center">
