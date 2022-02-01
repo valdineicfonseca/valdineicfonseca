@@ -10,7 +10,7 @@ https://github.com/valdineicfonseca
 <div align="center">
   <a href="https://github.com/valdineicfonseca?tab=repositories">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valdineicfonseca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdineicfonseca&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
