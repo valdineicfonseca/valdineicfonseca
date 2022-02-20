@@ -2,7 +2,7 @@
 
 - 💻 Cursando Analise e Desenvolvimento de Sistema
 - 📊 Pós graduação em Ciência de dados
-- 🐍 Atualmente estudante Python Impressionador da Hashtag
+- 🤖 Conhecimento em Python, automação e I.A (Python Impressionador da Hashtag)
 - 🏅 Associado do ClubDev e CodeClub, focado no aperfeiçoamento de:
 - 💶 HTML – CSS – JavaScript, API e REST API
 
@@ -34,11 +34,15 @@ You can click the Preview link to take a look at your changes.
 --->
  
 ## 
-<div> 
-  
-  <a href="https://www.instagram.com/valdinecfonseca/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-  <a href="www.linkedin.com/in/valdinei-c-fonseca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 
-</div>
+  <p align="left">
+  
+  <a href="http://www.linkedin.com/in/valdinei-c-fonseca" alt="Linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINKDIN"/></a>
+
+   <a href="https://www.instagram.com/valdinecfonseca/" alt="Instagram" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=INSTAGRAM"/></a>
+</p>  
+ 
+## ⭐ Desenvolvimento e atualizações de códigos  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valdineicfonseca&show_icons=true)
