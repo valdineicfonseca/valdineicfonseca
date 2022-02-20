@@ -6,15 +6,17 @@
 - 🏅 Associado do ClubDev e CodeClub, focado no aperfeiçoamento de:
 - 💶 HTML – CSS – JavaScript, API e REST API
 
-https://github.com/valdineicfonseca
-<div align="center">
-  <a href="https://github.com/valdineicfonseca?tab=repositories">
+
+https://github.com/valdineicfonseca <br>
+<a href="https://github.com/valdineicfonseca">
   
-  <!-- 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valdineicfonseca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>       <br>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&langs_count=7&theme=dracula"/>
-  -->
-</div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdineicfonseca&layout=compact&langs_count=7&theme=dracula"/>
+   
+</p>
+
+
+    
+
 
 <div style="display: inline_block"><br>
   
@@ -51,4 +53,8 @@ You can click the Preview link to take a look at your changes.
 </p>  
  
 ## ⭐ Desenvolvimento e atualizações de códigos  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valdineicfonseca&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valdineicfonseca&show_icons=true&include_all_commits=true&count_private=true)
+  
+
+
+
