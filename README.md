@@ -1,4 +1,4 @@
-## Oiii eu sou Valdinei C.Fonseca estudante de programação e tecnologia!
+## Dev: Valdinei C.Fonseca  
 
 - 💻 Cursando Analise e Desenvolvimento de Sistema
 - 📊 Pós graduação em Ciência de dados
