@@ -1,6 +1,6 @@
 ## Dev: Valdinei C.Fonseca  
 
-- 💻 Cursando Analise e Desenvolvimento de Sistema
+- 💻 Formado em Analise e Desenvolvimento de Sistema
 - 📊 Pós graduação em Ciência de dados
 - 🤖 Conhecimento em Python, automação e I.A (Python Impressionador da Hashtag)
 - 🏅 Associado do ClubDev e CodeClub, focado no aperfeiçoamento de:
